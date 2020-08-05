@@ -1,1 +1,3 @@
-TinDog Starting Files
+Tindog
+
+A simple startup for dog lovers
